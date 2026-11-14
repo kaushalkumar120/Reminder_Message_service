@@ -1,0 +1,10 @@
+D:\windows\Reminder_Message_Service\Reminder_Message_Service\bin\Debug\Reminder_Message_Service.exe.config
+D:\windows\Reminder_Message_Service\Reminder_Message_Service\bin\Debug\Reminder_Message_Service.exe
+D:\windows\Reminder_Message_Service\Reminder_Message_Service\bin\Debug\Reminder_Message_Service.pdb
+D:\windows\Reminder_Message_Service\Reminder_Message_Service\obj\Debug\Reminder_Message_Service.csproj.AssemblyReference.cache
+D:\windows\Reminder_Message_Service\Reminder_Message_Service\obj\Debug\ReminderMessageService.Form1.resources
+D:\windows\Reminder_Message_Service\Reminder_Message_Service\obj\Debug\Reminder_Message_Service.Properties.Resources.resources
+D:\windows\Reminder_Message_Service\Reminder_Message_Service\obj\Debug\Reminder_Message_Service.csproj.GenerateResource.cache
+D:\windows\Reminder_Message_Service\Reminder_Message_Service\obj\Debug\Reminder_Message_Service.csproj.CoreCompileInputs.cache
+D:\windows\Reminder_Message_Service\Reminder_Message_Service\obj\Debug\Reminder_Message_Service.exe
+D:\windows\Reminder_Message_Service\Reminder_Message_Service\obj\Debug\Reminder_Message_Service.pdb
